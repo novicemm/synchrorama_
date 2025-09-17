@@ -6,10 +6,11 @@ Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1<
 
 **Accepted at WACV 2026 Conference**
 
+<br>
 <p align="center">
   <img src="/content/synchrorama_teaser.png" alt="Teaser Image" width="600"/>
 </p>
-<br><br>
+<br>
 
 <p>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">
