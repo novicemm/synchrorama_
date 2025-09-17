@@ -6,12 +6,6 @@ Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1<
 
 **Accepted at WACV 2026 Conference**
 
-<br>
-<p align="center">
-  <img src="/content/synchrorama_teaser.png" alt="Teaser Image" width="600"/>
-</p>
-<br>
-
 <p>
   <a href="https://arxiv.org/abs/xxxx.xxxxx">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat&logo=arxiv" alt="arXiv">
@@ -20,6 +14,14 @@ Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1<
     <img src="https://img.shields.io/badge/Project-Page-blue?style=flat&logo=google-chrome" alt="Project Page">
   </a>
 </p>
+
+<br>
+<p align="center">
+  <img src="/content/synchrorama_teaser.png" alt="Teaser Image" width="600"/>
+</p>
+<br>
+
+
 
 ## Code is coming soon!!!
 
