@@ -2,15 +2,14 @@
 ### Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding
 
 Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1</sup>, Abhinav Dhall<sup>3</sup> <br><br>
-<sup>1</sup>Indian Institute of Technology Ropar, <sup>2</sup>Queen Mary University of London, <sup>3</sup>Monash University
+<sup>1</sup>Indian Institute of Technology Ropar, <sup>2</sup>Queen Mary University of London, <sup>3</sup>Monash University <br>
 
-<br>
 **Accepted at WACV 2026 Conference**
 
 <p align="center">
   <img src="/content/synchrorama_teaser.png" alt="Teaser Image" width="600"/>
 </p>
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://arxiv.org/abs/xxxx.xxxxx">
