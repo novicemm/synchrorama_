@@ -1,7 +1,7 @@
 # SynchroRaMa
-# Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding
+### Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding
 
-Phyo Thet Yee, Dimitrios Kollias, Sudeepta Mishra, Abhinav Dhall
+Phyo Thet Yee, Dimitrios Kollias, Sudeepta Mishra, Abhinav Dhall <br>
 **Accepted at:** WACV 2026 Conference
 
 <p align="center">
@@ -17,4 +17,4 @@ Phyo Thet Yee, Dimitrios Kollias, Sudeepta Mishra, Abhinav Dhall
   </a>
 </p>
 
-**Code is coming soon!!!***
+## Code is coming soon!!!
