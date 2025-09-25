@@ -24,12 +24,14 @@ Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1<
 
 ## Citation
 ```bibtex
-@misc{xxx,
-  title={SynchroRaMa: Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding},
-  author={},
-  year={2026},
-  eprint={},
+@misc{yee2025synchroramalipsynchronizedemotionaware,
+  title={SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding}, 
+  author={Yee, Phyo Thet and Kollias, Dimitrios and Mishra, Sudeepta and Dhall, Abhinav},
+  year={2025},
+  eprint={2509.19965},
   archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2509.19965}, 
 }
+
 
