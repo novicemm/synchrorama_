@@ -7,7 +7,7 @@ Phyo Thet Yee<sup>1</sup>, Dimitrios Kollias<sup>2</sup>, Sudeepta Mishra<sup>1<
 **Accepted at WACV 2026 Conference**
 
 <p>
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+  <a href="http://arxiv.org/abs/2509.19965">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat" alt="arXiv">
   </a>
   <a href="https://novicemm.github.io/synchrorama">
